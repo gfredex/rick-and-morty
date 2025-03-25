@@ -6,10 +6,10 @@
   "homepage": "https://gfredex.github.io/rick-and-morty",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "build": "vite build",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
