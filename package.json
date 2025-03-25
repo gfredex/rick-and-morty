@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://gfredex.github.io/rick-and-morty",
+  "homepage": "https://gfredex.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
